@@ -1,0 +1,6 @@
+requests
+supabase
+beautifulsoup4
+japanese-address
+fastapi[all]
+uvicorn[standard]
