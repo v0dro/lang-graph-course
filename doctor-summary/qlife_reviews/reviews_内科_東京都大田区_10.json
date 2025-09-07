@@ -1,0 +1,137 @@
+[
+    {
+        "name": "今井医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北嶺町30-13　市瀬ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大西医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森中1-18-6-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "緒方医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上7-28-19",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "としこレディースクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-40-7　大塚ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "井上メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区下丸子4-21-13-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "井上クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区千鳥1-5-3　川上ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森内科ハートクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-8-13　プラウドフラット大森I-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-28-18　ソシオミューズK5-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "牧田リハビリテーション病院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田4-22-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京蒲田病院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田7-10-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "内科・心療内科　クリニック花",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西糀谷4-13-10　ジェイシーズビル西糀谷1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "トラックターミナル診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区平和島2-1-1　京浜トラックターミナル",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "関根医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西3-9-19-102",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "柴垣医院　久が原(透析専門)",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西嶺町15-10　ガーデンビル1F・2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "染川医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区久が原5-11-10",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "name": "きかわだクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木1-43-7　SKビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "代々木駅前さかいクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木1-38-1　タムラビル2-A",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "恵比寿桜十字クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区東3-9-19　VORT恵比寿maximB1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "臨床検査科恵比寿",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿4-20-3　恵比寿ガーデンプレイスタワー26F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まいこホリスティックスキンクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代官山町8-6　アイディ代官山2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "えびす英クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿南2-17-2　プリマベーラ102",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京メディサイトクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区東2-16-9　SANKYO第3ビル5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "聖仁会診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区道玄坂1-16-10　渋谷DTビルB1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "近藤しんたろうクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区松濤1-28-7　シャトレー松濤201",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "千駄ヶ谷インターナショナルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区千駄ヶ谷1-20-3　バルビゾン11番館203",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ささづか駅前おはな診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区笹塚1-56-10　笹塚総榮ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "恵比寿医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿3-29-17",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ユナイテッドクリニック渋谷駅前院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区道玄坂2-30-4　玉久ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "小泉クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区幡ヶ谷1-31-6　ステラフォート1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ニキ・ハートクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区本町4-16-9　コヅカビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

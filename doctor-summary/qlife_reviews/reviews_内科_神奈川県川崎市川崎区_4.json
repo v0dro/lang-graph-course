@@ -1,0 +1,137 @@
+[
+    {
+        "name": "川崎すずき内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区貝塚1-15-4　ESTABILDING3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ささきクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区池田1-6-3　八丁畷クリニックファーム2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "なかじまクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区中島3-9-9",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "マディヤーマ・メンタルクリニック川崎",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区駅前本町18-2　金子ダイヤモンドビル9F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎おおつか内科・消化器内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区砂子2-6-2　三恵ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "キノメディッククリニック川崎",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区藤崎3-6-1-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎真心クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区日ノ出1-12-17",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "市電通り　ごうだクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区田島町23-1　SOMPOヶアラヴィーレ浜川崎田島町共同ビル",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎駅前プライベートクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区駅前本町14-1　DKビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎大師いしまる内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区観音2-10-6　第三忠ぶねビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎グランハートクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区渡田向町15-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎らいおんクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区砂子1-1-12　いせやビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎糖尿病甲状腺クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区駅前本町10-1　MEFULL川崎4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎駅東口内科クリニック・アレルギー科・小児科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区駅前本町10-1　MEFULL川崎11F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "かんのんクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区観音2-15-18",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

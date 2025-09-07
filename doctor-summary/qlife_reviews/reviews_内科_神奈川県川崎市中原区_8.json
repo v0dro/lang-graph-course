@@ -1,0 +1,137 @@
+[
+    {
+        "name": "田中内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新丸子東1-774",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "小林医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区北谷町31",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "丸子クリニック(透析専門)",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新丸子東1-840　ダイアパレス新丸子1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "毛利医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月3-5-33",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大迫内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新城2-15-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "中島クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区井田中ノ町8-36",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "前田医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新丸子町765",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎市中央療育センター診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区井田3-16-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "宮尾クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月1-6-14",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵中原しくらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区下新城2-1-38　キュイーブルIII1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "さかい医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区今井南町9-34",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "たむらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区今井西町12-14　柳田ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "上杉クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区下小田中1-15-33",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "みやぎ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月3-25-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "もくぼ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月住吉町2-25　エバビル2-4F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

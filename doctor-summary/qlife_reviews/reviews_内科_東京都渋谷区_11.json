@@ -1,0 +1,143 @@
+[
+    {
+        "name": "渋谷美容皮膚科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷2-10-15　NVI　Bldg8F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "あおい内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区西原3-8-5　アコルデ代々木上原B1F-A002",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "白滝医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区富ヶ谷1-48-6　代々木公園ハイツ1F",
+        "reviews": {
+            "qlife": {
+                "review1": {
+                    "content": "小児科に関する口コミ 回答者：40代　              女性　              勤務先：病院（200床未満）          \n          比較的空いていて、古くから地域とともに経過しているところです。\n子供の予防接種や風邪の診察の時は、具合の悪い子供を長い時間待たせたくないと思います。\nここは、そんな時すぐ対応してくれます。\n先生は優しく、子供の話をすると、しっかりとゆっくり丁寧に教えてくれます。\n待合室には子供が飽きないように絵本や玩具が置かれていて、予防接種の時など気を紛らわすのにとても助かりました。\n          2015年12月13日投稿",
+                    "date": "2015-12-13",
+                    "stars": ""
+                }
+            }
+        }
+    },
+    {
+        "name": "さかいメディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区元代々木町6-1　スズキビル101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "矢澤クリニック渋谷",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区上原1-33-11　TOPCOURT4-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "渋谷駅前クリニック　渋谷駅前院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷2-22-13　渋谷東口マイアミビル9F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "広尾羽澤内科眼科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区広尾3-11-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "RCクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前3-42-2　VORT外苑前III-B1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "クリニック・ハイジーア",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前5-13-2　パインアンダーフラット3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "さくらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷1-16-9　渋谷KIビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "にしたんクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区宇田川町33-1　グランド東京渋谷ビル7F701区画",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京TMクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木3-46-16　小野木ビル206",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新宿南リウマチ膠原病クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木2-10-8　ケイアイ新宿ビル8F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "代官山やまびこクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区猿楽町2-3　コーポ天城　302号室",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "渋谷ウエストクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区道玄坂1-5-4　照力ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

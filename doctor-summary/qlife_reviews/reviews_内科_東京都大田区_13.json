@@ -1,0 +1,137 @@
+[
+    {
+        "name": "昭和大学歯科病院内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北千束2-1-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "羽田バス通りクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田3-3-13　鈴久ビルマンション1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京メモリークリニック蒲田",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田本町2-4-2　アクシード蒲田本町1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まるこハート内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区下丸子1-12-4　AOIビル",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新田セントラル内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区矢口1-20-19　メゾン・ル・シエール1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "あきもと佳内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区鵜の木3-6-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田園調布呼吸器・内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布1-1-17　ステラート田園調布1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上幸仁診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上4-3-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "村上内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南雪谷5-11-7",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "みどりの森クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西7-7-16　城南医療ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "山王白石クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王1-35-23",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "城南チャイルドゼネラルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田1-7-14",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "久が原ファミリークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区久が原5-14-14　ライオンズプラザ久が原1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "しん平和島クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北6-26-28　55クリニックビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "多摩おやこクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区下丸子3-8-8　ビークルコート2F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

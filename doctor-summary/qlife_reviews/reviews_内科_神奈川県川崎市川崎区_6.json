@@ -1,0 +1,56 @@
+[
+    {
+        "name": "畑医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区宮前町5-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "鈴木医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区田町1-6-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "稲葉医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区砂子1-5-22",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "慶友会第一クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区渡田新町2-3-5",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "水江診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区水江町6-21　(株)東日本製鉄所京浜地区内",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "京町クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区京町1-9-11　大森ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

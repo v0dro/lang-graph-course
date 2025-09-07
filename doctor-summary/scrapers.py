@@ -4,14 +4,14 @@ import re
 from bs4 import BeautifulSoup
 from datetime import datetime
 from metadata import qlife_specialization_map, qlife_prefecture_values_map, qlife_wards_map
-from japanese_address import japanese_parser
+from japanese_address import parse as japanese_parser
 
 class QLifeScraper:
     def __init__(self, address, specialization, max_review_pages=999):
         self.specialization = specialization
         self.max_review_pages = max_review_pages
         
-        parsed_address = japanese_parser.parse(address)
+        parsed_address = japanese_parser(address)
         self.prefecture = parsed_address["prefecture"]
         self.full_ward = self._get_ward(parsed_address)
 

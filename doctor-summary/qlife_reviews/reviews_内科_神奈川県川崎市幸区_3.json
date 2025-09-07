@@ -1,0 +1,137 @@
+[
+    {
+        "name": "まつの内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区新川崎5-2　シンカモール3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "第二川崎幸クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区都町39-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "米田医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区中幸町3-13",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "小倉かとう内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区小倉5-19-23　クロスガーデン川崎2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "佐々木内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区小向町3-21",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "小林クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区南幸町2-80",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎西口心療クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区中幸町4-42　金子ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "植村内科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区戸手本町1-44-5　ステート川崎1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新川崎むらせ内科循環器内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区北加瀬2-11-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新川崎ふたばクリニック小児科・皮膚科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区鹿島田1-4-3-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎鶴見血管外科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区大宮町5-6　コ・オリナ・ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ゆみメディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区中幸町1-18-5　2F-4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎やまぶきクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区小倉5-5-23-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎くらかた胃腸内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区塚越4-314-2-17",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "南加瀬ファミリークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区南加瀬2-6-8　南加瀬メディカルモール2F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

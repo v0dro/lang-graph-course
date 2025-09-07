@@ -1,0 +1,137 @@
+[
+    {
+        "name": "西新宿5丁目内山クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区本町3-31-13　Maison　Jade-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "サン・キタノクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿西1-14-8　　アンヴェール1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "EMISHIA　CLINIC",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神南1-22-8　渋谷東日本ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "しぶここクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷1-6-3　ヴィラファースト渋谷402",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "インターナルアンドオーラルケア　アルファクリニック渋谷・医科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区宇田川町28-7　ANNEX・三善第3ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "エビスノブクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿西1-10-10　若葉西ビル7F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "北参道こころの診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区千駄ヶ谷3-32-2　北参道ウイングビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "明日を考える糖尿病クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿1-9-4　メディカル恵比寿ビル6F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "クリニカメディカ　髪のクリニック　SEED",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷2-8-2　萩津ビル5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "神宮の杜クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前1-19-11　はらじゅくアッシュ7F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新都心クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木2-16-7　山葉ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京原宿クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前6-29-3　原宿KYビル10F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "表参道クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前3-13-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "原宿けやき通りクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前4-15-13　FROMRED-1C",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "笹幡クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区幡ヶ谷1-24-8　オーキッドガーデン501",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

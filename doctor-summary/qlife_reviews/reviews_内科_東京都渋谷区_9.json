@@ -1,0 +1,137 @@
+[
+    {
+        "name": "むすび葉クリニック渋谷",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区東2-2-8　渋谷第二TYビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京頭痛クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区千駄ヶ谷4-23-5　JPR千駄ヶ谷ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "笹塚21内科ペインクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区笹塚1-48-14　笹塚ショッピングモール21　2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "渋谷DSクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷3-11-2　パインビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "YAG　BEAUTY　CLINIC",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区渋谷1-24-15　ヒラゼン宮益ビル8F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "MYメディカルクリニック渋谷",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区宇田川町20-17　NMF渋谷公園通りビル3F・4F・5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "えびすハートクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿西1-10-7　MMSビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "恵比寿みなみ観音坂クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿南3-10-14　コープ恵比寿101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "JOYクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木2-23-1　ニュー・ステイト・メナー1115",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "渋谷笹塚HDクリニック(透析専門)",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区笹塚1-30-1　ビラージュ笹塚III",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "代々木上原耳鼻咽喉科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区大山町46-10　J‘sビル代々木大山2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "渋谷リーフクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区道玄坂2-23-14　道玄坂225ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "広尾ガーデンヒルズクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区広尾4-1-12　広尾ガーデンヒルズG棟B1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "おいかわ内科在宅クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前5-41-1　VILLAAOBA2F202",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "代々木八幡クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区富ケ谷1-51-4　代々木八幡猪山ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

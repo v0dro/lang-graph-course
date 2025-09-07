@@ -1,0 +1,137 @@
+[
+    {
+        "name": "済生診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森中2-7-16",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "石野医院・医科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北嶺町16-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "増田外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田本町1-4-8",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "さくらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上7-1-12　第2湯川ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ヨコヤマクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区仲六郷1-56-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "しのはらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田7-44-6　パシフィックタワー2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東邦大学羽田空港第3ターミナルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田空港2-6-5　東京国際空港国際線旅客ターミナル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "盛田ひふ科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区久が原4-33-8",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "羽田腎クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東糀谷1-20-20",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田よしのクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-27-10　蒲田TKビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "羽田おおぞらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田6-6-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "おおはら消化器内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区中央4-32-7　橋正ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "しろした医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東嶺町41-23",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "山王眼と心のクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王3-27-6　大森ラルタビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "いわた循環器科・内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西5-5-1　サニーガーデン1F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

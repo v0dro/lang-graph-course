@@ -1,0 +1,137 @@
+[
+    {
+        "name": "きゅーちゃん診療所",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区萩中2-6-17-101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田園調布ファミリークリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区田園調布2-62-5　東急スクエアガーデンサイト南館2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "中馬込おがわ内科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区中馬込2-7-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上幸仁診療所",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区池上4-3-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "村上内科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区南雪谷5-11-7",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "城南チャイルドゼネラルクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区蒲田1-7-14",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "久が原ファミリークリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区久が原5-14-14　ライオンズプラザ久が原1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "多摩おやこクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区下丸子3-8-8　ビークルコート2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "都川耳鼻咽喉科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区東矢口1-16-21",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "せせらぎクリニック多摩川",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区田園調布1-33-3　田園ホームズ1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "六郷こどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区仲六郷4-19-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "糀谷こどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区西糀谷4-29-16　ステーションツインタワーズ糀谷フロントウエスト1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田辺クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区蒲田4-15-8　シュロスバッカス5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "さぽーとぴあ診療所",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区中央4-30-11",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "南馬込おかばやし耳鼻咽喉科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都大田区南馬込6-4-23　ファミネス梅田1F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

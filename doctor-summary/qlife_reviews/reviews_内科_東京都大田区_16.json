@@ -1,0 +1,137 @@
+[
+    {
+        "name": "北嶺すとうクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北嶺町11-8　第2田ノ原屋ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大田大森胃腸肛門内視鏡クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-10-14　Luz大森6F-C区画",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "たかせクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区矢口1-5-1　KIPビル5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "センテニアルクリニック大森",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-26-3　Kビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "馬込駅前クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北馬込2-28-4-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "そらいろクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南蒲田1-1-17　川口ビル6F-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田駅東口クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-15-1　プライム蒲田東口ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "馬込駅前たきざわハート内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北馬込2-30-2　MOA馬込2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "とじま内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北4-18-8　ス・ルール100",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "Kクリニック山王分院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王2-19-8　山王2198",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森整形外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-2-2　福和ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "うえの内科外科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区仲池上1-10-3　ラシーヌ201",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "夫婦坂クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区上池台4-21-7　ウエルシア薬局2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田駅前やまだ内科糖尿病・甲状腺クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-24-4　No.R蒲田3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "おおもり訪問クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王3-27-6　大森ラルタビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

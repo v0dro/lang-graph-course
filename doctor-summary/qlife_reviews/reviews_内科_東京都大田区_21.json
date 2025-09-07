@@ -1,0 +1,137 @@
+[
+    {
+        "name": "柳澤博愛医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布2-56-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "立石医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北嶺町3-27",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "岡崎医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田4-16-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "栗原医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区矢口1-8-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "野溝医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東矢口2-17-13",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "黒田医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区矢口1-13-9",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "加藤内科小児科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区矢口1-19-25",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "観音通り中央医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区中央3-15-16-1F・2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "溝谷医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森東2-1-4",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東蒲田診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東蒲田2-3-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "古川医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北6-23-25",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "古賀医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区下丸子3-8-5",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "高野医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上5-3-18",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田島クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区石川町2-3-16　プレステート石川台2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "松坂医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区萩中1-6-28",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

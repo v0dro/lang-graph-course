@@ -1,0 +1,20 @@
+[
+    {
+        "name": "小川クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南雪谷2-15-2　好屋田中ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "すずきフレンドシップクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区仲六郷4-16-12　マルハンウェルネス1F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

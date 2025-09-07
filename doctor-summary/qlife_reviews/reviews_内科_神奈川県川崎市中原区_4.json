@@ -1,0 +1,137 @@
+[
+    {
+        "name": "やまだ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区上新城1-2-28　さくらコート2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵小杉内科・漢方・循環器",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区下沼部1810-1　シティハウス武蔵小杉2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新丸子ペインクリニック内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区丸子通2-682　エディフィスAN101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "さかね内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区宮内2-12-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "小杉内科ファミリークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区中丸子13-21　LROCKS2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "こすぎ駅前クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新丸子東2-925　白誠ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "島脳神経外科整形外科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区井田杉山町29-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "富士通クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区上小田中4-1-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "むらた内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区小杉町3-1501　セントア武蔵小杉A棟1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田中整形外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月3-32-18",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "前田記念武蔵小杉クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区小杉町1-403　武蔵小杉STMビル6F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "山口外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新丸子町745-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "中橋メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区北谷町51-9",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "さかもと内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区井田1-36-3　メディパーク川崎井田1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "小田切医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区小杉町3-253",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

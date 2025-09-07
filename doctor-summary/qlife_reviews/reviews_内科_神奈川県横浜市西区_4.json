@@ -1,0 +1,137 @@
+[
+    {
+        "name": "河村内科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区宮崎町45",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "高島町しらゆり内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区花咲町6-143　横浜MIDベースアネックス1F・2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "B&Hメディカルクリニック　横浜院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸2-11-11　グランツ南幸2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "浜田戸部整形外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区戸部本町49-15-202",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横濱ゲートタワー内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区高島1-2-5　横濱ゲートタワー4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横浜東口腎クリニック(透析専門)",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区高島2-5-18　1F-8F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横濱ゲートタワーヘルチェッククリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区高島1-2-5　横濱ゲートタワー4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "MYメディカルクリニック横浜みなとみらい",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい3-6-1　みなとみらいセンタービル11F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ウィルAGA・いびきメディカルクリニック　横浜院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸2-12-10　ITOビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "松島病院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区戸部本町9-11",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まずはネットでクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい4-6-2　みなとみらいグランドセントラルタワー2F207-208区画",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ルナレディースクリニック横浜院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区北幸1-1-8　エキニア横浜7F-702",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ヒロクリニック横浜駅前院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸1-13-10　相鉄南幸第15ビル(旧第2ニューヨコハマビル)4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "井出整形外科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区久保町43-11",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横浜駅前ひさゆき消化器内科・内視鏡クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸2-16-1　CeeUYokohama-9F906区画",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

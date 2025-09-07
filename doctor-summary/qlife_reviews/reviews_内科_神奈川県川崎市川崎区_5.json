@@ -1,0 +1,143 @@
+[
+    {
+        "name": "かわさき診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区砂子2-6-2　三恵ビル7F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "浅田内科・循環器内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区小田栄2-2-3　LICOPA川崎201",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎駅前大腸と胃の消化器内視鏡・肛門外科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区砂子2-4-17　CassiaKawasakiResidence-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ぶどうの樹在宅診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区大島2-4-13-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "アルトクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区渡田3-4-12",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "みなとみらい夢クリニック　川崎院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区駅前本町26-4　ラウンドクロス川崎8F801",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "竹内クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区京町2-24-4　セソール川崎京町ハイライズ111",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "花田内科胃腸科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区大島4-16-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田辺医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区大島上町1-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東扇島診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区東扇島78　福利厚生センター2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "後藤医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区昭和2-16-16",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "安士医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区浜町1-22-6",
+        "reviews": {
+            "qlife": {
+                "review1": {
+                    "content": "内科に関する口コミ 回答者：50代　              男性　              勤務先：歯科診療所          \n          ５年ほど前に人間ドックで、胃がんの疑いがあり、鼻から入れる胃カメラがあると聞いていたのでこちらの医院で胃カメラを飲んで胃がんの検診をしてもらいました。\n私は嘔吐反射が結構あるほうなので、心配していましたが鼻からファイバースコープを入れたので、ほとんど辛くありませんでした。\nまた心配していたがんのほうも、検診の結果問題ないことがわかり安心しました。\n今でもホームドクターとして血圧やコレステロールのコントロールをお願いしています。\n          2014年07月15日投稿",
+                    "date": "2014-07-15",
+                    "stars": ""
+                }
+            }
+        }
+    },
+    {
+        "name": "平安医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区藤崎4-19-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "飯塚医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区京町2-14-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "柴田医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市川崎区浅田3-10-12",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

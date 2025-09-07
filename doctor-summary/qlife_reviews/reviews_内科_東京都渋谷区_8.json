@@ -1,0 +1,137 @@
+[
+    {
+        "name": "神宮前クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区神宮前3-6-13",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "よよぎ女性診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区富ヶ谷1-8-3　安達ビジネス・パーク・ビル401",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "恵比寿　山の診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿西1-10-6　恵比寿ツインズ6F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "代々木シーシークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木1-35-4　代々木クリスタルビルB1-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "望星新宿南口クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木2-9-2　久保ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "広尾まきレディスクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区広尾5-19-7　協和ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "渡辺クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区本町3-10-3　清水橋矢部ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "恵比寿内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿南1-1-1　ヒューマックスビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "松倉クリニック　代官山",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区猿楽町16-15　代官山T-SITEGARDEN2F・3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ケエムクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区笹塚1-53-7　笹塚サンハイツ1107",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ひかりクリニック東京",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区代々木2-16-1　宮坂甲斐路ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "代官山内科外科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区猿楽町21-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "木島小児科内科・耳鼻咽喉科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区富ヶ谷2-21-10　木島ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "笹塚・代田橋透析クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区笹塚1-64-8　笹塚サウスビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "恵比寿ウェストヒルズクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都渋谷区恵比寿西1-4-2　川田ビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

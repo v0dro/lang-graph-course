@@ -1,0 +1,65 @@
+[
+    {
+        "name": "新川崎ふたばクリニック小児科・皮膚科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区鹿島田1-4-3-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ゆいみらいクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区下平間39-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ミューザ川崎こどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区大宮町1310　ミューザ川崎2F-228区画及び231-2区画",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "いしいアレルギーこどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区南加瀬3-5-3　トキワクリニックビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "たつのこどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区下平間359　レオナビル5-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "かい小児科・内科・耳鼻咽喉科医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区南加瀬3-25-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "関口医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市幸区古市場1-21",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

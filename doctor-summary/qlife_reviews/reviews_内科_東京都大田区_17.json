@@ -1,0 +1,137 @@
+[
+    {
+        "name": "大森牧田クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-31-8",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "うつのみや内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北千束1-44-1　リバーレプラザ大岡山1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "にしろくクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西六郷3-1-7",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "オムケアクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田6-20-2　fiano620-101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大石ファミリークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布本町2-4",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京御嶽山呼吸器内科・内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北嶺町11-8　小宮ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "久が原エキマエ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東嶺町30-12　ウエルシア薬局2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "フォレスト内科リウマチ科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森中2-24-2　excellent-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "自由が丘ホームクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布1-28-12",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "藤田医科大学　羽田クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田空港1-1-4　HANEDA　INNOVATION　CITY　Zone　A",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "RESM新東京スリープメディカルケアクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-8-2　icot大森2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京田園調布駅前呼吸器内科・内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布2-49-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "スマイル健康クリニック東京",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-44-5　蒲田プライム2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "羽田天空橋クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田空港1-1-4　羽田イノベーションシティZone-JJ2-6-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "つぼた内科眼科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区仲六郷2-44-15",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

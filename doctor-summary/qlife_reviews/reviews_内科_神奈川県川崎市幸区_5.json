@@ -1,0 +1,20 @@
+[
+    {
+        "name": "やぎ耳鼻咽喉科・アレルギー・内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区大宮町6-4　TMビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "いきいきクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区南幸町2-34-2",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

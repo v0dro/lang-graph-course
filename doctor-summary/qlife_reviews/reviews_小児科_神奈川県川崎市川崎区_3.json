@@ -1,0 +1,11 @@
+[
+    {
+        "name": "鈴木医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市川崎区田町1-6-15",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "name": "タカタ糖尿病・内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区大宮町12-7　TMビルII",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ゆいみらいクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区下平間39-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横山在宅診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区下平間23-1-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "かしまだ頭痛　脳神経クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区下平間201-12-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "黒瀬クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区神明町2-1-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "かい小児科・内科・耳鼻咽喉科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区南加瀬3-25-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "関口医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区古市場1-21",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "柁原医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区小倉3-23-4",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "南武医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区下平間205",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "藤田医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区南幸町2-21-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "鈴木医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区神明町2-14-7",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "松葉医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区塚越2-159",
+        "reviews": {
+            "qlife": {
+                "review1": {
+                    "content": "糖尿病に関する口コミ 回答者：50代　              男性　              勤務先：製薬会社          \n          非常に説明が丁寧で、信頼が持てます。\nいろいろなことにアンテナを張られ、情報としてお持ちなので、最新の治療も受けられます。\nまた、神奈川県内の医師の中でも中心人物として活躍されています。\nコメディカル（医師以外の医療従事者）が充実しています。\n食事・運動指導が丁寧で、糖尿病治療においては非常にお薦めの医院だと思います。\n          2015年12月14日投稿",
+                    "date": "2015-12-14",
+                    "stars": ""
+                }
+            }
+        }
+    },
+    {
+        "name": "栗田病院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区小倉2-30-13",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まつやまクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区下平間341　レオナ2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎リウマチ・内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市幸区大宮町1310　ミューザ川崎2F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

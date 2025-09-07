@@ -1,0 +1,128 @@
+[
+    {
+        "name": "みなとみらいクリニック新高島",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい5-1-2　横浜シンフォステージ　ウエストタワー2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "性感染症・性病専門ペアライフクリニック横浜",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸2-8-9　ブライト横浜401",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "みなとみらい麻の葉クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい5-1-2　横浜シンフォステージウエストタワー201",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横浜駅前　精神科・心療内科　おおかみこころのクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸2-13-7　横浜エム・エスIIビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "伸寿記念クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい6-3-6　オーケーみなとみらいビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横浜プライベートメディカルプラクティス",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい4-2-8　みなとみらい44街区ビル3-2区画",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "柳川ビルクリニック・医科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区南幸2-21-5　柳川ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川本クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区西戸部町1-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "岡部医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区中央2-19-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ハマノ産婦人科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区戸部本町24-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "横浜第一病院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区高島2-5-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ながともクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区楠町7-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "富田内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区藤棚町1-58-6　富田クリニック1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "みなとみらいクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県横浜市西区みなとみらい3-6-3　MMパークビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

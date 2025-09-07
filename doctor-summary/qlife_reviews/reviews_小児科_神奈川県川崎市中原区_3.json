@@ -1,0 +1,119 @@
+[
+    {
+        "name": "わかばこどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区西加瀬17-8",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "こすぎ坂本医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区小杉町3-441-9　伊達ビル2F-B",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵小杉小児科・てんかんクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区小杉町3-24-10　KOSUGI　iHUG　ウェルネスリビング棟1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵小杉せのお内科クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区市ノ坪26　コウトビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "元住吉駅前こころみクリニック・内科・小児科・耳鼻咽喉科・婦人科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区木月1-22-1　元住吉プラザビル2F・3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "二宮内科小児科クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区北谷町693",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "わたたに医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区下沼部1747",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "うちだこどもクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区上新城2-14-23　アドバンススクウェア上新城1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "毛利医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区木月3-5-33",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "前田医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区新丸子町765",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "川崎市中央療育センター診療所",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区井田3-16-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "上杉クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区下小田中1-15-33",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "松本クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "神奈川県川崎市中原区丸子通2-441",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

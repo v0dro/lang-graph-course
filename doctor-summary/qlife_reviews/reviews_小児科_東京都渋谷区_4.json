@@ -1,0 +1,137 @@
+[
+    {
+        "name": "スワこどもファミリークリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区広尾5-16-4　日興ロイヤルパレス103",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "近藤医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区富ケ谷2-7-8　TKハウス1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "中島医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区松濤1-8-16-1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "鎮目記念クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区代々木2-16-7　山葉ビル6F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大平医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区桜丘町23-17　シティコート桜丘1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "本町内科小児科クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区本町2-6-9　森ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "北参道クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区千駄ケ谷5-4-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東邦クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区広尾1-11-5　アサヒ広尾マンション301",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "荻原整形外科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区本町2-7-10　シブヤFハウス10-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "リーメディカルクリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区恵比寿3-39-5　メゾットボネール白金1B",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "松吉医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区笹塚1-57-5　松吉ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "淳クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区恵比寿西1-14-2　ツムラビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "藤岡医院",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区西原3-13-18",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "赤心堂クリニック",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区代々木3-33-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "吉峰内科胃腸科",
+        "doctor": [],
+        "department": "小児科",
+        "address": "東京都渋谷区東1-27-4　吉峰ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

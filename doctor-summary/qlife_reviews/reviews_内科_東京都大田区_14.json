@@ -1,0 +1,137 @@
+[
+    {
+        "name": "しみず内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北嶺町37-29　FLOWPLACETOKYO2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "かまた内科糖尿病クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田4-29-2　メゾンド・パルファン1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "せき山王クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王1-4-6　パーク山王2F201",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "せせらぎクリニック多摩川",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布1-33-3　田園ホームズ1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "つばさクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田4-20-7　ハイムK101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "糀谷こどもクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西糀谷4-29-16　ステーションツインタワーズ糀谷フロントウエスト1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田辺クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田4-15-8　シュロスバッカス5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まるも腎・泌尿器科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上4-24-12",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "みうら健内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東六郷1-26-13　ベルマール1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "尾野メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区羽田2-5-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田駅前クリニック(透析専門)",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-44-5　ユニゾ蒲田5丁目ビル5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上さいとう内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上8-23-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "永石医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南雪谷2-10-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大矢クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西4-16-13",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "糀谷じんクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南六郷1-14-11　1F-3F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

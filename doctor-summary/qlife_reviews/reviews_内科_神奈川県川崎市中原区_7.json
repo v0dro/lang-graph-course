@@ -1,0 +1,137 @@
+[
+    {
+        "name": "こすぎ坂本医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区小杉町3-441-9　伊達ビル2F-B",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵小杉こころみクリニック・内科・心療内科・精神科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区小杉町3-1501-1　セントア武蔵小杉A棟203",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "亀谷クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区中丸子361",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵小杉おさだ内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区市ノ坪449-3　シティタワー武蔵小杉2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "宇藤内科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区苅宿24-37",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵新城メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区上新城2-3-16　LAPORTA武蔵新城2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵小杉せのお内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区市ノ坪26　コウトビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "はらクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区上小田中6-26-3-2F-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "元住吉駅前こころみクリニック・内科・小児科・耳鼻咽喉科・婦人科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月1-22-1　元住吉プラザビル2F・3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "武蔵中原むかいだ整形外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区上小田中6-26-3　パルムコート2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "こころみクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区木月1-28-5　メディカルプラザD元住吉3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "二宮内科小児科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区北谷町693",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "医大前内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区小杉町1-509-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "新城そよかぜ内科・呼吸器内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区新城5-4-2　noma4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "わたたに医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "神奈川県川崎市中原区下沼部1747",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

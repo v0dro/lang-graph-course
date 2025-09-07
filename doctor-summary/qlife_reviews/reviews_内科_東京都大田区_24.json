@@ -1,0 +1,137 @@
+[
+    {
+        "name": "東海渡井クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東海3-2-1　大田市場内事務棟2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-40-7　大塚ビル401",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "白取内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区千鳥1-19-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "雪谷三和クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南雪谷2-3-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ファミリークリニック馬込",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区中馬込2-26-15　山奈屋ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "久が原内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東嶺町30-15",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "古部クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南六郷2-21-10　ハイネスT.S.　1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "山王山手ビルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王2-5-9　山手ビル6F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "梅屋敷ウィメンズクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田2-5-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "芦田整形外科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田4-22-8",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "あきた内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西糀谷2-9-4　医療モール美園1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "むさし新田クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区矢口1-16-17　青木ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "はせがわクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区千鳥2-27-22　メゾン純泉1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "藤川クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区千鳥3-7-2",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "千束呼吸器アレルギークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南千束1-1-6　南千束山本ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "name": "TOWN訪問診療所城南",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区上池台1-40-6　ガーデニア上池台101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "あらい内科・脳神経クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東糀谷1-14-15　ハネサム16ビル1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "マチノマ大森内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西3-1-38　マチノマ大森3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "幸和診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区萩中3-29-5　B1F・1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "須藤メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区上池台4-6-5",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上みなみ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上7-6-5　池上メディカルブリッジ3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "千鳥町内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区千鳥1-2-17",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "北千束整形外科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区北千束3-17-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森駅前内科・内視鏡クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-2-2　福和ビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上7-6-5　ボニータビル4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上総合病院付属クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上6-3-10　エトモ池上5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "森のクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田7-1-3　ステラビル西蒲田4F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森町駅前内科小児科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西3-20-9　フォレストコート1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "梅屋敷内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西6-11-21　第2ダイカツビル101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "マオメディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王2-1-5　大森ララ5F",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

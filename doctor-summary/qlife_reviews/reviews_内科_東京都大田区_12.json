@@ -1,0 +1,143 @@
+[
+    {
+        "name": "京浜診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東六郷1-27-4",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ささもとクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西6-15-18　黒栄大森ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "本田英比古クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王3-17-11",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大田病院附属大森中診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森中1-22-2",
+        "reviews": {
+            "qlife": {
+                "review1": {
+                    "content": "一般内科に関する口コミ 回答者：30代　              女性　              勤務先：病院（200床未満）          \n          受付の方が親切でわからないことも調べてくれて対応してくれる。\n看護師も忙しそうだが対応が柔らかく、丁寧。\n医師はてきぱきしていて、的確な質問をして適切な処置をしてくれる。\n入院するときは患者にきちんと説明があり、なじみの大田病院に入院となっている。\n待合席がたくさんあって、ほとんどの方が座って待っていられる。\n          2013年12月15日投稿",
+                    "date": "2013-12-15",
+                    "stars": ""
+                }
+            }
+        }
+    },
+    {
+        "name": "伊丹内科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東雪谷2-17-1　グランディ雪谷1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "洗足池医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区上池台2-32-4",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "鈴木内科医院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王3-29-1",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "きゅーちゃん診療所",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区萩中2-6-17-101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森町整形外科内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西3-19-16　榎本ビル1F・2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "田園調布ファミリークリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布2-62-5　東急スクエアガーデンサイト南館2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "中馬込おがわ内科",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区中馬込2-7-10",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "サトウ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森西5-9-7　VillageM1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "池上クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区池上6-14-3",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "萩中ハートフルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区萩中1-9-16　カレル萩中1F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森榎本クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-13-6",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]

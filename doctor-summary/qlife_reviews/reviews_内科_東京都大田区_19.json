@@ -1,0 +1,137 @@
+[
+    {
+        "name": "三光クリニック蒲田駅前院",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田8-1-5　東急西蒲田ビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まごめ内科・腎クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区南馬込5-27-13　クールバレー南馬込1A",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "永山クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区田園調布1-33-9",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "やすだ内科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東雪谷2-25-12　フローディア雪谷101",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "蒲田駅前内科・泌尿器科・皮膚科クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-11-10　FUNDES蒲田6F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "高砂香料工業株式会社健康管理室",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区蒲田5-37-1　ニッセイアロマスクエア17F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "まほろば東京クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区東矢口3-2-1　サンロードダイヤモンドマンション116",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "栗原クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区山王2-5-9　山手ビル9F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "南大井クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-1-10　大森シティビル3F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ひるま甲状腺クリニック　蒲田",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田7-48-3-2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "大森駅前なかじま内科・糖尿病クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森北1-1-10　大森シティビル2F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "東京ハートリズムクリニック羽田",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区仲六郷2-45-9",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "伊藤メディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田7-26-11　Flos蒲田5F",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "ちょうメディカルクリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区大森東2-25-11",
+        "reviews": {
+            "qlife": {}
+        }
+    },
+    {
+        "name": "三光クリニック",
+        "doctor": [],
+        "department": "内科",
+        "address": "東京都大田区西蒲田5-27-12",
+        "reviews": {
+            "qlife": {}
+        }
+    }
+]
