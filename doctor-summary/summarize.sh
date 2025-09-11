@@ -1,0 +1,1 @@
+python rank_clinics.py --specialization "内科" --address "210-0011 神奈川県川崎市川崎区富士見１丁目６番１１−３０９"
